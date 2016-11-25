@@ -1,7 +1,10 @@
-boiler-plate project structure for react development.
+## boiler-plate project structure for react development.
 
-mkdir in for new project.
+1. **npm install**  
+this will create the node_modules folder to be shared with each project.
 
-modify the package.json 
+2. use sub-dir named project-1 as boiler-plate for each project.
 
-npm install
+3. modify *package.json* for each project to match the dependencies. 
+
+4. **webpack** to bundle and start development.
